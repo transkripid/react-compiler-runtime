@@ -1,0 +1,15 @@
+{
+  "name": "@transkripid/react-compiler-runtime",
+  "version": "18.2.2",
+  "description": "React compiler runtime compat for react < 19",
+  "main": "index.cjs",
+  "module": "./index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Transkrip.id <team@transkrip.id>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
